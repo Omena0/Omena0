@@ -1,2 +1,4 @@
 ## Hello there! I develop minecraft content!
-### Contact me on discord @Omena0#3610 or by Email at Omena0MC@gmail.com
+
+## Contacting me:
+### Discord: (Discord server)[https://discord.io/Omena0]
