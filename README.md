@@ -3,6 +3,4 @@
 ### Email: Omena0MC@gmail.com
 
 ### Check out this repo
- |
- |
-\_/
+### ⬇️
