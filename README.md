@@ -9,6 +9,7 @@ Hello there i am a solo developer from Finland
 Check em out!
 - SussyLauncher
 - SussyRat
+- Msg app
 
 ### Check out this repo
 ### ⬇️
