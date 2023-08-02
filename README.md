@@ -7,9 +7,10 @@ Hello there i am a solo developer from Finland
 
 ## Main projects (i will 100% forget to update this)
 Check em out!
+- Fr-client
 - SussyLauncher
-- SussyRat
-- Msg app
+- Sh
+- website (mostly api changes)
 
 ### Check out this repo
 ### ⬇️
