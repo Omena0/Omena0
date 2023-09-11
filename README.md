@@ -7,10 +7,10 @@ Hello there i am a solo developer from Finland
 
 ## Main projects (i will 100% forget to update this)
 Check em out!
+- Omena0.github.io (mostly api changes)
 - Fr-client
+- Chat-V6
 - SussyLauncher
-- Sh
-- website (mostly api changes)
 
 ### Check out this repo
-### ⬇️
+## ⬇️
