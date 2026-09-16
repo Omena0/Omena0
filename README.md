@@ -1,7 +1,7 @@
 ## Hello!
 
 ### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-stats-extended">
     <img height=200 align="center" src="profile/stats.svg"/>
 </a>
 
