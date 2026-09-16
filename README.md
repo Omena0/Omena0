@@ -1,7 +1,7 @@
 ## Hello!
 
 ### Stats
-<a href="https://github.com/anuraghazra/github-stats-extended">
+<a href="https://github.com/stats-organization/github-stats-extended">
     <img height=200 align="center" src="profile/stats.svg"/>
 </a>
 
